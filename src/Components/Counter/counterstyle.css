@@ -1,0 +1,28 @@
+  .count-input {
+    width: 60px;
+    height: 56px;
+    background: none;
+    text-align: center;
+    color: #b24242;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    -moz-appearance: textfield;
+  }
+
+  .counter {
+    width: 180px;
+    height: 56px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fbe8e8;
+    border-radius: 8px;
+    border: 1px solid #b24242;
+    overflow: hidden;
+    box-sizing: border-box;
+    color: #b24242;
+  }

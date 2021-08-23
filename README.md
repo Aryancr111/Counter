@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Hello World! this is Aryan Chaturvedi, I have built a React Counter App which provides following functionalities: 
+The user can enter a initial value into the counter and count will be initialised to that
+The counter starts at 1 initially otherwise
+The counter can go upto a maximum value of 1000 in case no max value explicitly provided
+The user is able to enter any value into the counter to set it
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
